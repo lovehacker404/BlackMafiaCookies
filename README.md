@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/lovehacker404-BlackMafia-orange?style=for-the-badge&logo=python.svg) 
 <p align="center">
-<img src="blackmafia9.gif">
+<img src="blackmafia7.jpg">
 <a href="#"><img title="Made in Pakistan" src="https://img.shields.io/badge/MADE%20IN-Pakistan-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
@@ -12,11 +12,13 @@
 <a href="#"><img title="WhatsApp Num" src="https://img.shields.io/badge/WhatsApp%20Num-03094161457-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<img src="blackmafia10.gif">
+<img src="blackmafia8.jpg">
 <p align="center">
-<img src="blackmafia11.gif">
+<img src="blackmafia9.jpg">
 <p align="center">
-<img src="blackmafia12.gif">
+<img src="blackmafia10.jpg">
+<p align="center">
+<img src="blackmafia11.jpg">
 <p align="center">
 <a href="https://github.com/lovehacker404"><img title="Author" src="https://img.shields.io/badge/Author-lovehacker404-red.svg?style=for-the-badge&logo=github"></a>
 </p>
